@@ -1,0 +1,5 @@
+{
+  "name": "SayInvoice",
+  "description": "A modern, responsive invoice generator application that allows users to create, preview, print, and download professional invoices in PDF format. Built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
